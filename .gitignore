@@ -1,0 +1,9 @@
+# Ignore everything
+*.swp
+*.bak
+*.zip
+
+
+# But not these folders
+!data_backup_script/
+!shellscript/
